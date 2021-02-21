@@ -6,12 +6,4 @@ This is a health and wellness application created for PearlHacks 2021. Pearl Hac
 
 Our team consists of Aakriti, Jennifer, Pearl and Paula. 
 
-# Prize Categories 
 
-We are opting into 
-
-# Description 
-
-# Tools 
-- APIs:
-- We coded using Repl.it
